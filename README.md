@@ -1,2 +1,2 @@
-# ahk-quirks
-Homestuck and Vast Error Characters Automatic Quirk Scripts made using AutoHotkey
+# AutoHotkey Quirks
+Homestuck and Vast Error Characters Automatic Quirk Scripts made using AutoHotkey.
