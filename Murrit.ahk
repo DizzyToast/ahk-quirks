@@ -169,7 +169,7 @@ SetWorkingDir %A_ScriptDir%
 
 :C?*:each::beac#
 
-:C?*:EACH::BEA#
+:C?*:EACH::BEAC#
 
 :C?*:elated::eelated
 
@@ -345,10 +345,10 @@ SetWorkingDir %A_ScriptDir%
 
 :R?*:h::#
 
-!+>::
+!<::
 	Send, >([]
 	Send, {Left}
-	return
+	Return
 
 !m::
 Suspend, Toggle
