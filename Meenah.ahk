@@ -95,6 +95,10 @@ SetWorkingDir %A_ScriptDir%
 
 :C?*:CLAMORING::CLAMERING
 
+:C?*:could::cod
+
+:C?*:COULD::COD
+
 :C?*:couldn’t::codn't
 
 :C?*:COULDN'T::CODN'T
