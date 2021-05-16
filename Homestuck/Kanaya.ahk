@@ -15,6 +15,16 @@ Loop, 26
 	Hotstring(":C?*:`n" . Chr(A_Index + 96)," " . Chr(A_Index + 64))
 Return
 
+:R?*::)::=:)
+
+:R?*::(::=:(
+
+:R?*::D::=:D
+
+:R?*::P::=:P
+
+:R?*::0::=:0
+
 !k::
 Suspend, Toggle
 Return
