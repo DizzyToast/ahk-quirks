@@ -19,7 +19,7 @@ Return
 This means that pressing Alt (marked with the !) + A will suspend the program until you type the combination again.
 Alternatively, you can go to your taskbar and right click the AutoHotkey icon and then click "Suspend Script".
 
-Some quirks also have prefixes or suffixes that can't be applied automatically so they're bound to a hotkey that look something like this:
+Some quirks also have prefixes or suffixes that can't be applied automatically so they're bound to a hotkey using code that looks something like this:
 ```
 !3::
 	Send, :33 < 
