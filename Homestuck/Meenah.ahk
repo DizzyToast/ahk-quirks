@@ -353,6 +353,8 @@ SetWorkingDir %A_ScriptDir%
 
 :?*:h::)(
 
+:C?*:E::-E
+
 :R?*::)::38)
 
 :R?*::(::38(
