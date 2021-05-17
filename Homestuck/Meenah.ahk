@@ -89,7 +89,7 @@ SetWorkingDir %A_ScriptDir%
 
 :C?*:choir::coral
 
-:C?*:CHOIR::CHORAL
+:C?*:CHOIR::CORAL
 
 :C?*:clamoring::clamering
 
@@ -105,7 +105,7 @@ SetWorkingDir %A_ScriptDir%
 
 :C?*:concerned::conc)(cerned
 
-:C?*:CONCENRED::CONC)(CERNED
+:C?*:CONCERNED::CONC)(CERNED
 
 :C?*:confused::conc)(fused
 
@@ -342,6 +342,14 @@ SetWorkingDir %A_ScriptDir%
 :C?*:talking::glubbing
 
 :C?*:TALKING::GLUBBING
+
+:C?*:true::trout
+
+:C?*:TRUE::TROUT
+
+:C?*:what are::water
+
+:C?*:WHAT ARE::WATER
 
 :?*:h::)(
 
