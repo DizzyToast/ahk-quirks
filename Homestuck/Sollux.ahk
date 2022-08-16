@@ -13,7 +13,7 @@ SetWorkingDir %A_ScriptDir%
 
 :C?*:TO::TWO
 
-:C?*:too:two
+:C?*:too::two
 
 :C?*:TOO::TWO
 
